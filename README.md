@@ -27,4 +27,5 @@ Tenho mais de 16 anos de experiência em gestão de processos educativos e cultu
 Para conhecer mais sobre minha metodologia e resultados em cada frente, acesse:
 
 * [**Case: Gestão Leia Mulheres Toledo**](gestao-leia-mulheres.md)
+* * [**Investigação e Produção Intelectual**](producao-intelectual.md)
 * [**Case: Estúdio Entrelaços**](estudio-entrelacos.md)
