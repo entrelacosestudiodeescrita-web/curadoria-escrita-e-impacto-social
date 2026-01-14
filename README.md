@@ -21,11 +21,12 @@ Tenho mais de 16 anos de experiência em gestão de processos educativos e cultu
 - **Habilidades Híbridas:** Domínio de ferramentas digitais de gestão, escrita criativa e análise de discurso.
 
 ---
-*Este espaço documenta a aplicação da ciência da linguagem como ferramenta de transformação social e equidade.*
----
 ## 📂 Detalhamento de Projetos
 Para conhecer mais sobre minha metodologia e resultados em cada frente, acesse:
 
 * [**Case: Gestão Leia Mulheres Toledo**](gestao-leia-mulheres.md)
 * * [**Investigação e Produção Intelectual**](producao-intelectual.md)
 * [**Case: Estúdio Entrelaços**](estudio-entrelacos.md)
+
+---
+*Este espaço documenta a aplicação da ciência da linguagem como ferramenta de transformação social e equidade.*
