@@ -1,6 +1,6 @@
 # Case de Gestão e Mediação: Leia Mulheres Toledo (PR)
 
-Desde 2018, atuo na coordenação e mediação deste clube de leitura, transformando a curadoria literária em uma ferramenta de impacto social e fomento à autoria feminina.
+Coordenação, curadoria e mediação de leitura focada na produção intelectual de mulheres desde 2018 (8 anos de atuação contínua).
 
 ## 📋 Atribuições de Coordenação
 * **Gestão de Projetos:** Planejamento do cronograma anual de leituras e organização logística dos encontros presenciais e digitais.
@@ -11,7 +11,7 @@ Desde 2018, atuo na coordenação e mediação deste clube de leitura, transform
 ## 🚀 Impacto Social
 * Promoção do acesso à literatura de autoria feminina na comunidade local.
 * Fortalecimento de redes de mulheres através da leitura compartilhada e do exercício da fala.
-* Continuidade e sustentabilidade do projeto por mais de 6 anos consecutivos.
+* Continuidade e sustentabilidade do projeto por 8 anos consecutivos.
 
 ## ☕ Projetos Integrados e Parcerias
 Além das mediações mensais, coordenei iniciativas de expansão do repertório cultural da comunidade:
