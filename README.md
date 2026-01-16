@@ -1,25 +1,24 @@
 # Estratégia de Linguagem, Curadoria e Impacto Social
 Projetos de mediação cultural, curadoria literária e investigação em autoria feminina.
 
-Olá! Sou **Cleonice Alves Lopes**, Mestra em Letras e pesquisadora dedicada às temáticas de gênero, autoria feminina e linguística aplicada. Minha trajetória une o rigor acadêmico à gestão prática de projetos culturais e editoriais.
+Curadoria, Escrita e Impacto Social
+Sou Mestra em Letras (Linguagem e Sociedade) e Professora, com uma trajetória de 16 anos dedicada à intersecção entre educação, cultura e direitos humanos. Minha atuação é focada em transformar pesquisas complexas em narrativas acessíveis e impactantes.
 
-## 🖋️ Pesquisa e Autoridade Intelectual
-Minha atuação investigativa foca na intersecção entre **Linguagem e Sociedade**, com ênfase em:
-- **Feminismos:** Perspectivas negras e decoloniais.
-- **Autoria Feminina:** Crítica feminista e o resgate de memórias e histórias de mulheres.
-- **Produção Científica:** Mais de 120 trabalhos publicados e participação ativa em núcleos de pesquisa (UNIOESTE/PR).
+🛠️ Expertise e Atuação
+Coordenação de Projetos: Lidero há 8 anos o projeto Leia Mulheres Toledo, gerindo desde a curadoria técnica de autoria feminina até a mobilização de comunidades e design da informação.
 
-## 🚀 Coordenação de Projetos e Mediação
-Tenho mais de 16 anos de experiência em gestão de processos educativos e culturais:
-- **Leia Mulheres Toledo:** Coordenação e curadoria estratégica, promovendo a democratização do acesso à literatura escrita por mulheres e mediação de diálogos críticos.
-- **Estúdio Entrelaços:** Gestão de marca e idealização de oficinas de escrita criativa e mediação de leitura.
-- **Gestão Pública (SEED/PR):** Atuação como Coordenadora Educacional, gerenciando fluxos de trabalho e comunicação pedagógica.
+Mentoria e Escrita: No Estúdio Entrelaços, atuo como mentora de escrita e gestora editorial, desenvolvendo fluxos de trabalho que garantem a excelência e a profundidade intelectual de cada obra.
 
-## 🛠️ Expertise Técnica e Editorial
-- **Design Editorial:** Gestão do selo *Reformando a Escrita* (Branding, Diagramação e Revisão ABNT).
-- **Produção de Conteúdo:** Colunista na Agência Casa de Notícias e Editora de E-books.
-- **Habilidades Híbridas:** Domínio de ferramentas digitais de gestão, escrita criativa e análise de discurso.
+Design da Informação: Utilizo ferramentas como Canva e Notion para transpor dados e investigações acadêmicas (especialmente em Feminismos Negros e Decoloniais) para formatos visuais e comunicativos eficazes.
 
+📁 Sobre este Repositório
+Este espaço funciona como uma documentação viva da minha metodologia de trabalho. Aqui você encontrará:
+
+Gestão de Fluxos: Exemplos de como padronizo processos editoriais e de coordenação.
+
+Curadoria Estratégica: Registros da minha produção intelectual e mediação cultural.
+
+Impacto Social: Projetos que articulam pesquisa acadêmica com as demandas da audiência.
 ---
 ## 📂 Detalhamento de Projetos
 Para conhecer mais sobre minha metodologia e resultados em cada frente, acesse:
